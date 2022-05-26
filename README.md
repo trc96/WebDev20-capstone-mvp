@@ -16,4 +16,6 @@ My idea for my capstone project is a sort of family reunion photo dump. This com
 
 -Provide tiers of authentication(one to view, one to view and upload).
 
+# Database Model:
+
 ![capstone-dbmodel](https://user-images.githubusercontent.com/38859903/170559075-769338a9-7855-48a5-9de6-ee71280439e2.png)
